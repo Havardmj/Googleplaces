@@ -1,0 +1,31 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E6:94:D3:ED:4F:1E:52:7F:00:CE:D0:30:15:19:9F:71:4D:36:CA:A9%3Bf.havardmj.googleplaces2
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    E6:94:D3:ED:4F:1E:52:7F:00:CE:D0:30:15:19:9F:71:4D:36:CA:A9
+
+    SHA-1 certificate fingerprint:
+    E6:94:D3:ED:4F:1E:52:7F:00:CE:D0:30:15:19:9F:71:4D:36:CA:A9
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyClyDMHDX7r5mcJGsM_rgYt_lOHjMiuDi0</string>
+    <string name="browser_key">AIzaSyDBvd5wKJfukpHnWH-ICKXjL2vrnsGdYlE</string>
+</resources>
+
+<!--
+AIzaSyDBvd5wKJfukpHnWH-ICKXjL2vrnsGdYlE
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=30.3280983,-81.4855&radius=10000&type=market&sensor=true&key=AIzaSyDBvd5wKJfukpHnWH-ICKXjL2vrnsGdYlE
+-->
